@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/billbillington/dokku-issue-4624-public-submodule.git
