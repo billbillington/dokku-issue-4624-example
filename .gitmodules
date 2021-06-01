@@ -1,3 +1,3 @@
 [submodule "submodule"]
 	path = submodule
-	url = https://github.com/billbillington/dokku-issue-4624-public-submodule.git
+	url = https://github.com/jsmbars/dokku-issue-4624-private-submodule.git
